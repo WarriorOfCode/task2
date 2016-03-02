@@ -145,18 +145,22 @@ input.sp-selector-1:checked ~ .sp-content .sp-parallax-bg {
 
 input.sp-selector-2:checked ~ .sp-content .sp-parallax-bg {
     background-position: -200px 0;
+    transition: 0.7s linear;
 }
 
 input.sp-selector-3:checked ~ .sp-content .sp-parallax-bg {
     background-position: -400px 0;
+    transition: 0.7s linear;
 }
 
 input.sp-selector-4:checked ~ .sp-content .sp-parallax-bg {
     background-position: -600px 0;
+    transition: 0.7s linear;
 }
 
 input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
     background-position: -800px 0;
+    transition: 0.7s linear;
 }
 
 .sp-slider {
